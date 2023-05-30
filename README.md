@@ -1,6 +1,11 @@
 # Portfolio Projects
 
-1. Google Data Analytics Capstone project - BellaBeat Fitness Tracker Data
-      - Code
+(R) Google Data Analytics Project
+      - R Code
       - Visualizations
       - Analytics Report
+      
+ (SQL) Data Cleaning (Bellabeat)
+      - SQL Code + Descriptions
+      - Cleaned Data
+      
