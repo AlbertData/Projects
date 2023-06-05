@@ -1,0 +1,631 @@
+id,career_switch,career_switch_difficulty,important_needs,favourite_programming_language,industry
+62a33b3db4da29969c62df3d,True,Very Difficult,Remote Work,Python,Healthcare
+62a33ba1bae91e4b8b82e35c,False,Very Difficult,Remote Work,R,Finance
+62a33c2cbc6861bf3176bec1,False,Easy,Good Work/Life Balance,Python,Other
+62a33c8624a26260273822f9,True,Very Easy,Remote Work,R,Finance
+62a33c91f3072dd892621e03,True,Difficult,Better Salary,R,Healthcare
+62a33cb6cf25554317300177,True,Difficult,Good Work/Life Balance,Python,Other
+62a33cb72e54c9003e531c65,True,Difficult,Better Salary,Python,Finance
+62a33cd30f8c8599d5af0f8f,True,Neither easy nor difficult,Remote Work,Other,Other
+62a33cd3cf255543173001d9,True,Neither easy nor difficult,Better Salary,R,Healthcare
+62a33cd8bc6861bf3176c05f,True,Very Difficult,Better Salary,Python,Telecommunication
+62a33ce918134ddc75ce8c30,True,Neither easy nor difficult,Remote Work,Python,Other
+62a33cf30a77c1a77f65baa2,True,Neither easy nor difficult,Better Salary,Python,Other
+62a33d15f408bae018ed370d,True,Neither easy nor difficult,Better Salary,R,Tech
+62a33d1ebae91e4b8b82e707,True,Easy,Good Work/Life Balance,Python,Education
+62a33d4624a26260273824c4,False,Neither easy nor difficult,Good Culture,R,Construction
+62a33d5c0f8c8599d5af107c,True,Difficult,Good Culture,Python,Finance
+62a33d850f8c8599d5af10cb,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a33d9bf8f7561645852496,True,Difficult,Better Salary,Python,Other
+62a33dbdd8c00e9f5419cd65,False,Very Difficult,Better Salary,R,Tech
+62a33de124a26260273826b2,False,Very Difficult,Better Salary,Python,Other
+62a33dedd8c00e9f5419ce2b,True,Easy,Remote Work,Python,Finance
+62a33dfbd8c00e9f5419ceda,True,Neither easy nor difficult,Remote Work,Other,Tech
+62a33e38f3072dd8926221d3,True,Neither easy nor difficult,Remote Work,Python,Healthcare
+62a33e54d8c00e9f5419cfe9,False,Neither easy nor difficult,Better Salary,Python,Finance
+62a33e62575fa3a5ae88aabf,False,Easy,Better Salary,Python,Tech
+62a33e63cec54911e9ca4f99,False,Easy,Good Work/Life Balance,Python,Tech
+62a33e72bae91e4b8b82ea1a,False,Difficult,Other,Other,Other
+62a33e890f8c8599d5af13b9,True,Difficult,Remote Work,Python,Other
+62a33e8bf8d5efcc22f7c79a,False,Very Easy,Better Salary,Other,Healthcare
+62a33e90cec54911e9ca5031,True,Very Difficult,Remote Work,R,Other
+62a33e9df8f756164585277b,True,Very Difficult,Good Work/Life Balance,Python,Finance
+62a33eb6bc6861bf3176c5a3,True,Neither easy nor difficult,Other,Python,Finance
+62a33ee0bae91e4b8b82eaec,True,Difficult,Good Work/Life Balance,Python,Other
+62a33ee80f8c8599d5af14b7,False,Easy,Better Salary,Other,Tech
+62a33efe0a77c1a77f65bf1e,False,Difficult,Better Salary,Python,Finance
+62a33f0ef408bae018ed3aeb,False,Neither easy nor difficult,Remote Work,Python,Other
+62a33f17f8f7561645852867,False,Difficult,Better Salary,Python,Tech
+62a33f52bc6861bf3176c72c,True,Neither easy nor difficult,Better Salary,Other,Healthcare
+62a33f56cf255543173005e9,True,Neither easy nor difficult,Good Culture,Python,Other
+62a33f5a5d257a28a30d7bb5,True,Very Difficult,Remote Work,Python,Construction
+62a33fa5cec54911e9ca51f1,True,Very Difficult,Better Salary,Other,Other
+62a33fcb575fa3a5ae88ad59,True,Difficult,Remote Work,JavaScript,Other
+62a33fcf18134ddc75ce91c3,False,Easy,Good Work/Life Balance,Python,Telecommunication
+62a34006d8c00e9f5419d341,True,Very Difficult,Better Salary,Python,Construction
+62a34020575fa3a5ae88ade0,True,Difficult,Better Salary,Python,Education
+62a34038b4da29969c62eafe,True,Neither easy nor difficult,Other,Python,Other
+62a3406b575fa3a5ae88ae78,False,Neither easy nor difficult,Better Salary,Other,Finance
+62a340cab4da29969c62ec01,True,Difficult,Remote Work,R,Other
+62a340d62e54c9003e5324b4,True,Neither easy nor difficult,Remote Work,Python,Finance
+62a340e10a77c1a77f65c2e7,True,Easy,Good Work/Life Balance,Python,Tech
+62a340f5bc6861bf3176caa4,False,Easy,Better Salary,Other,Tech
+62a34117cec54911e9ca54e7,True,Difficult,Remote Work,R,Other
+62a3413a5d257a28a30d8074,False,Easy,Remote Work,Python,Finance
+62a341a1f3072dd8926229a5,True,Very Easy,Other,Other,Other
+62a341b0f8f7561645852d1d,True,Difficult,Other,Python,Tech
+62a341e8f8d5efcc22f7d002,False,Very Difficult,Better Salary,C/C++,Other
+62a34210cf25554317300c02,False,Easy,Better Salary,Python,Tech
+62a3424eb4da29969c62eedd,True,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a34256bae91e4b8b82f16d,True,Difficult,Good Work/Life Balance,Other,Finance
+62a3426cf408bae018ed409b,False,Difficult,Better Salary,Python,Tech
+62a34272f8d5efcc22f7d15f,False,Neither easy nor difficult,Better Salary,Python,Telecommunication
+62a34340bc6861bf3176d05b,True,Difficult,Better Salary,Python,Tech
+62a34383b4da29969c62f1be,False,Neither easy nor difficult,Good Culture,Python,Tech
+62a34389cec54911e9ca5a22,False,Neither easy nor difficult,Remote Work,R,Tech
+62a343a22e54c9003e532a2a,False,Neither easy nor difficult,Remote Work,Python,Other
+62a343d9f3072dd892622fe4,True,Difficult,Better Salary,Python,Tech
+62a34400d8c00e9f5419dc2b,False,Difficult,Good Culture,Python,Tech
+62a34425f8d5efcc22f7d525,True,Easy,Better Salary,Python,Tech
+62a34449575fa3a5ae88b637,False,Difficult,Better Salary,R,Other
+62a3445dcf255543173011e1,True,Neither easy nor difficult,Remote Work,Python,Healthcare
+62a3447a575fa3a5ae88b6c0,False,Easy,Better Salary,Python,Tech
+62a3449f7dc029e2d66bf5d1,True,Neither easy nor difficult,Remote Work,Python,Telecommunication
+62a344c5f408bae018ed4806,True,Easy,Good Work/Life Balance,Other,Tech
+62a344c6f8d5efcc22f7d6e1,True,Neither easy nor difficult,Other,Python,Tech
+62a344e1f3072dd892623328,True,Very Difficult,Better Salary,Other,Tech
+62a3450424a262602738357f,False,Very Easy,Good Work/Life Balance,Python,Healthcare
+62a3452818134ddc75ce9e1b,True,Easy,Better Salary,Python,Other
+62a345490a77c1a77f65cc5b,True,Neither easy nor difficult,Better Salary,R,Education
+62a3455bbc6861bf3176d57a,True,Easy,Good Work/Life Balance,Python,Tech
+62a3457bf8d5efcc22f7da17,False,Easy,Better Salary,Python,Tech
+62a345b2bae91e4b8b82fad6,False,Neither easy nor difficult,Remote Work,Python,Healthcare
+62a345c47dc029e2d66bf80a,True,Difficult,Good Culture,Python,Telecommunication
+62a345e25d257a28a30d8b43,True,Easy,Good Work/Life Balance,Python,Other
+62a34646f8d5efcc22f7dc5c,True,Easy,Remote Work,R,Education
+62a34687f408bae018ed4c52,True,Neither easy nor difficult,Good Culture,Python,Finance
+62a346a37dc029e2d66bfa6d,True,Difficult,Better Salary,Python,Tech
+62a346a95d257a28a30d8cb9,False,Neither easy nor difficult,Better Salary,Python,Other
+62a346b4bc6861bf3176d7ce,False,Neither easy nor difficult,Good Work/Life Balance,R,Tech
+62a346cef8f756164585385b,True,Very Difficult,Better Salary,Other,Other
+62a346d724a2626027383abd,True,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a346d90a77c1a77f65d08d,False,Neither easy nor difficult,Remote Work,Python,Other
+62a34726f8d5efcc22f7dec7,False,Neither easy nor difficult,Better Salary,Python,Tech
+62a3476c5d257a28a30d8e6d,False,Neither easy nor difficult,Other,Python,Other
+62a347b4f8f7561645853a98,False,Easy,Better Salary,JavaScript,Healthcare
+62a347f6b4da29969c62fb79,False,Very Difficult,Better Salary,Other,Telecommunication
+62a3483018134ddc75cea4e6,True,Very Difficult,Better Salary,Python,Finance
+62a348650f8c8599d5af2b77,True,Neither easy nor difficult,Better Salary,R,Other
+62a3489318134ddc75cea659,True,Easy,Good Culture,Python,Tech
+62a348bf2e54c9003e533634,True,Difficult,Better Salary,Python,Finance
+62a348c2f3072dd892623c10,False,Very Easy,Remote Work,R,Other
+62a348f2f8d5efcc22f7e2ba,True,Difficult,Better Salary,Python,Other
+62a349160a77c1a77f65d4db,True,Neither easy nor difficult,Better Salary,Python,Other
+62a3493fb4da29969c62fe63,True,Very Easy,Better Salary,Python,Other
+62a3496e575fa3a5ae88c4e6,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a3498e575fa3a5ae88c554,False,Neither easy nor difficult,Better Salary,Other,Other
+62a34991b4da29969c62ff4b,True,Difficult,Better Salary,Python,Healthcare
+62a349bbf8f756164585400d,True,Easy,Better Salary,Other,Other
+62a349c7cec54911e9ca67c7,True,Easy,Better Salary,Python,Finance
+62a349d5d8c00e9f5419ead2,False,Neither easy nor difficult,Good Culture,Python,Finance
+62a349e6b4da29969c63000c,True,Neither easy nor difficult,Good Work/Life Balance,C/C++,Tech
+62a34a03cec54911e9ca6869,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a34ab15d257a28a30d9589,True,Difficult,Good Work/Life Balance,Python,Finance
+62a34abc0f8c8599d5af31c5,True,Very Easy,Remote Work,Other,Other
+62a34b07cec54911e9ca6b6e,False,Neither easy nor difficult,Better Salary,Python,Other
+62a34b0eb4da29969c6302ce,True,Neither easy nor difficult,Other,Other,Finance
+62a34b1b0f8c8599d5af328b,False,Easy,Better Salary,R,Tech
+62a34b5b5d257a28a30d96a6,False,Neither easy nor difficult,Better Salary,Python,Finance
+62a34b7ebae91e4b8b83076c,False,Easy,Better Salary,Python,Other
+62a34b99cec54911e9ca6e14,True,Difficult,Good Culture,JavaScript,Other
+62a34bb0f3072dd892624210,True,Neither easy nor difficult,Better Salary,Python,Other
+62a34bd0cf2555431730208b,True,Easy,Good Work/Life Balance,Other,Healthcare
+62a34bd4f408bae018ed57bd,False,Difficult,Better Salary,R,Other
+62a34c66b4da29969c6305af,True,Difficult,Good Work/Life Balance,Python,Other
+62a34d1ff8f756164585465c,False,Easy,Better Salary,R,Tech
+62a34d4118134ddc75ceb0ed,True,Difficult,Remote Work,Python,Other
+62a34da0f408bae018ed5abd,True,Very Difficult,Good Work/Life Balance,Other,Education
+62a34dbb5d257a28a30d9a61,False,Neither easy nor difficult,Better Salary,Python,Tech
+62a34e00f8f7561645854954,True,Easy,Remote Work,R,Tech
+62a34e082e54c9003e534118,False,Easy,Better Salary,Python,Tech
+62a34eb7bc6861bf3176e6d8,True,Neither easy nor difficult,Good Work/Life Balance,R,Education
+62a34f2af8f7561645854c1c,False,Difficult,Better Salary,Python,Healthcare
+62a34f3bf408bae018ed5e42,True,Very Easy,Good Culture,R,Healthcare
+62a34fa418134ddc75ceb509,True,Difficult,Good Work/Life Balance,Python,Tech
+62a34fbacec54911e9ca776f,False,Neither easy nor difficult,Good Work/Life Balance,R,Other
+62a34fc3f3072dd892624a45,True,Neither easy nor difficult,Good Work/Life Balance,R,Other
+62a34ff1f408bae018ed601d,False,Easy,Better Salary,Python,Other
+62a34ff4f3072dd892624b32,True,Neither easy nor difficult,Better Salary,R,Healthcare
+62a3505bd8c00e9f5419f8df,True,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a350f7f3072dd892624d05,True,Difficult,Good Work/Life Balance,C/C++,Finance
+62a35130f3072dd892624d9f,True,Easy,Better Salary,Python,Healthcare
+62a351860a77c1a77f65e86b,True,Very Easy,Better Salary,Other,Healthcare
+62a3519b24a262602738514a,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a35236b4da29969c631214,False,Easy,Good Work/Life Balance,Python,Education
+62a352a32e54c9003e534981,True,Very Easy,Good Work/Life Balance,Other,Finance
+62a352f00a77c1a77f65eae7,True,Neither easy nor difficult,Good Culture,Python,Telecommunication
+62a353372e54c9003e534a40,False,Neither easy nor difficult,Remote Work,R,Tech
+62a353565d257a28a30da59f,True,Neither easy nor difficult,Good Work/Life Balance,Other,Finance
+62a353f07dc029e2d66c1783,False,Neither easy nor difficult,Better Salary,Python,Tech
+62a3545e0f8c8599d5af474b,True,Easy,Good Work/Life Balance,Other,Other
+62a35472cec54911e9ca82bc,False,Difficult,Better Salary,R,Other
+62a354bdb4da29969c631700,False,Difficult,Better Salary,R,Healthcare
+62a354e9cf255543173031ed,False,Neither easy nor difficult,Good Culture,R,Healthcare
+62a35541f3072dd892625517,True,Easy,Better Salary,Python,Other
+62a355445d257a28a30dab12,True,Easy,Good Culture,Python,Other
+62a35631cf25554317303425,False,Difficult,Other,R,Healthcare
+62a357390a77c1a77f65f189,True,Neither easy nor difficult,Remote Work,Python,Tech
+62a3578b0a77c1a77f65f279,False,Neither easy nor difficult,Better Salary,R,Other
+62a357d30f8c8599d5af4ea3,False,Difficult,Better Salary,Other,Finance
+62a3582e575fa3a5ae88e506,False,Easy,Better Salary,Other,Finance
+62a35878575fa3a5ae88e5d5,True,Difficult,Good Culture,Python,Finance
+62a35981bae91e4b8b8323dd,False,Neither easy nor difficult,Better Salary,Other,Healthcare
+62a35a2c7dc029e2d66c2519,False,Difficult,Better Salary,Python,Tech
+62a35aa2f8d5efcc22f8075d,True,Difficult,Other,R,Telecommunication
+62a35ababae91e4b8b83269d,True,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62a35ae0575fa3a5ae88ea98,True,Neither easy nor difficult,Remote Work,Python,Tech
+62a35ae87dc029e2d66c279b,False,Easy,Better Salary,R,Other
+62a35b13bc6861bf31770188,False,Neither easy nor difficult,Good Culture,Python,Construction
+62a35b72f408bae018ed76a8,True,Neither easy nor difficult,Better Salary,Other,Healthcare
+62a35b965d257a28a30db899,True,Difficult,Better Salary,Python,Other
+62a35ba3f3072dd892626068,True,Easy,Better Salary,Python,Other
+62a35c890a77c1a77f65fdfa,True,Neither easy nor difficult,Better Salary,R,Tech
+62a35d8f575fa3a5ae88efd6,True,Very Difficult,Better Salary,Python,Other
+62a35d95cf25554317304386,False,Easy,Good Work/Life Balance,Python,Tech
+62a35e970a77c1a77f66035a,True,Neither easy nor difficult,Better Salary,Python,Telecommunication
+62a35eabf408bae018ed7cbc,True,Difficult,Better Salary,Python,Finance
+62a35f0d24a2626027386a8b,False,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a35f825d257a28a30dc128,False,Neither easy nor difficult,Good Work/Life Balance,Python,Healthcare
+62a35fa0f8f7561645856c35,False,Easy,Remote Work,Python,Tech
+62a35fc1f8f7561645856c98,False,Neither easy nor difficult,Good Work/Life Balance,Python,Healthcare
+62a3602318134ddc75ced6b9,False,Easy,Good Culture,Other,Other
+62a360b8f8f7561645856ec4,False,Difficult,Better Salary,Python,Tech
+62a360dbd8c00e9f541a16cf,False,Neither easy nor difficult,Remote Work,Other,Construction
+62a36146f8f7561645856ff7,True,Easy,Remote Work,R,Healthcare
+62a361af0f8c8599d5af6277,True,Very Difficult,Better Salary,Python,Education
+62a361cc575fa3a5ae88f908,False,Very Easy,Remote Work,Python,Finance
+62a3620f0f8c8599d5af63a5,False,Difficult,Better Salary,Python,Tech
+62a36251d8c00e9f541a199e,False,Difficult,Better Salary,Python,Other
+62a36275bc6861bf31771183,True,Easy,Better Salary,Python,Other
+62a3636c2e54c9003e536e6b,False,Neither easy nor difficult,Better Salary,Python,Finance
+62a365c2f8d5efcc22f81e2e,False,Very Difficult,Other,Python,Other
+62a365d5d8c00e9f541a20cf,True,Difficult,Better Salary,R,Telecommunication
+62a3670b575fa3a5ae890422,True,Difficult,Better Salary,Python,Tech
+62a3676bb4da29969c633ac7,False,Neither easy nor difficult,Other,Other,Finance
+62a36794b4da29969c633b48,False,Neither easy nor difficult,Better Salary,Python,Finance
+62a367d224a2626027387b56,False,Neither easy nor difficult,Good Work/Life Balance,Other,Finance
+62a367ed18134ddc75cee697,False,Difficult,Better Salary,Other,Other
+62a36802f8f7561645857e38,True,Difficult,Remote Work,Python,Tech
+62a3684ebc6861bf31771f15,False,Neither easy nor difficult,Better Salary,Python,Finance
+62a3688df8f7561645857f7e,False,Neither easy nor difficult,Remote Work,Python,Other
+62a368ee2e54c9003e537e4a,True,Very Easy,Good Work/Life Balance,C/C++,Finance
+62a369280a77c1a77f661ad0,True,Neither easy nor difficult,Remote Work,Python,Tech
+62a36969f8f756164585821d,True,Easy,Better Salary,Python,Healthcare
+62a3697ff408bae018ed948b,False,Easy,Remote Work,Other,Telecommunication
+62a36ac6cf255543173063d8,False,Neither easy nor difficult,Better Salary,Other,Other
+62a36ad1f408bae018ed9793,False,Difficult,Remote Work,Python,Other
+62a36b6c24a26260273882a2,True,Neither easy nor difficult,Better Salary,Python,Education
+62a36b862e54c9003e5383c6,False,Neither easy nor difficult,Good Work/Life Balance,Other,Other
+62a36d12f8d5efcc22f82cd8,False,Easy,Other,Python,Tech
+62a36d3124a262602738862c,True,Very Easy,Better Salary,Python,Telecommunication
+62a36e470a77c1a77f662470,False,Difficult,Good Work/Life Balance,Python,Tech
+62a36e7024a262602738890a,False,Difficult,Good Work/Life Balance,R,Education
+62a36fe67dc029e2d66c5303,True,Easy,Better Salary,Python,Tech
+62a3701f575fa3a5ae89164e,True,Neither easy nor difficult,Remote Work,Python,Finance
+62a370635d257a28a30de5eb,True,Very Difficult,Better Salary,Python,Finance
+62a37128d8c00e9f541a39dd,False,Difficult,Better Salary,Other,Other
+62a3715124a2626027388f02,False,Easy,Better Salary,Python,Real Estate
+62a37222cf2555431730732d,False,Neither easy nor difficult,Good Work/Life Balance,Python,Healthcare
+62a373efbc6861bf3177360b,True,Neither easy nor difficult,Better Salary,Other,Education
+62a3759e5d257a28a30def3a,True,Neither easy nor difficult,Remote Work,Python,Other
+62a3777624a262602738997e,True,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62a377987dc029e2d66c638d,True,Neither easy nor difficult,Remote Work,Python,Other
+62a377f424a2626027389af3,True,Neither easy nor difficult,Good Work/Life Balance,R,Telecommunication
+62a3784c0f8c8599d5af8fbc,False,Neither easy nor difficult,Better Salary,R,Other
+62a37a43d8c00e9f541a4a7c,True,Difficult,Better Salary,Python,Finance
+62a37a7818134ddc75cf0d4c,False,Difficult,Better Salary,Python,Healthcare
+62a37aa1cf255543173081e5,False,Very Difficult,Better Salary,Python,Finance
+62a37ad924a2626027389f8a,True,Difficult,Good Culture,Python,Tech
+62a37b7db4da29969c636123,False,Neither easy nor difficult,Remote Work,Other,Other
+62a37bab2e54c9003e53a10a,True,Neither easy nor difficult,Better Salary,Python,Other
+62a37c50cec54911e9cacee2,True,Difficult,Good Culture,Python,Finance
+62a37d41bae91e4b8b8369f7,True,Neither easy nor difficult,Remote Work,Python,Other
+62a37f8db4da29969c6367bf,True,Neither easy nor difficult,Remote Work,Python,Other
+62a37ff3bae91e4b8b836ed0,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a38023575fa3a5ae89339e,False,Difficult,Better Salary,Python,Other
+62a38153cec54911e9cad855,True,Easy,Good Work/Life Balance,Python,Healthcare
+62a381d024a262602738ab19,True,Easy,Other,R,Healthcare
+62a38227bae91e4b8b837235,False,Easy,Remote Work,Python,Finance
+62a38489cf25554317309145,True,Neither easy nor difficult,Remote Work,Python,Other
+62a384f0cec54911e9cadd6f,True,Neither easy nor difficult,Better Salary,Other,Other
+62a385480f8c8599d5afa5c6,True,Neither easy nor difficult,Better Salary,Python,Other
+62a3856218134ddc75cf1ee0,True,Difficult,Better Salary,Python,Finance
+62a385c40f8c8599d5afa6cf,True,Very Difficult,Good Work/Life Balance,Python,Tech
+62a385ddbae91e4b8b837855,False,Neither easy nor difficult,Other,Python,Finance
+62a385e7b4da29969c6372ab,True,Difficult,Remote Work,Python,Other
+62a386dfcec54911e9cae1d3,False,Difficult,Good Work/Life Balance,Python,Agriculture
+62a3870bbc6861bf31775841,False,Neither easy nor difficult,Remote Work,R,Other
+62a38733f8d5efcc22f859fc,True,Neither easy nor difficult,Good Work/Life Balance,Python,Finance
+62a387e6575fa3a5ae8940a1,False,Difficult,Other,Python,Tech
+62a388d524a262602738b869,True,Very Difficult,Remote Work,Python,Construction
+62a38975b4da29969c637830,False,Neither easy nor difficult,Better Salary,Python,Other
+62a38985f8f756164585b89c,True,Very Difficult,Good Work/Life Balance,Python,Finance
+62a389b70f8c8599d5afad1a,False,Neither easy nor difficult,Better Salary,Python,Tech
+62a389ed18134ddc75cf24f8,False,Easy,Better Salary,R,Tech
+62a38a060a77c1a77f6654b7,False,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a38a4d575fa3a5ae8944df,False,Neither easy nor difficult,Good Work/Life Balance,Python,Education
+62a38a97cf25554317309af2,True,Neither easy nor difficult,Remote Work,Python,Other
+62a38c120f8c8599d5afb0e9,False,Easy,Better Salary,Python,Other
+62a38c9dbc6861bf317760c4,True,Easy,Better Salary,Other,Other
+62a38de50f8c8599d5afb3e7,False,Difficult,Good Work/Life Balance,Python,Other
+62a3906224a262602738c58a,True,Difficult,Better Salary,Python,Healthcare
+62a3907cbae91e4b8b838917,False,Neither easy nor difficult,Remote Work,JavaScript,Other
+62a390c0d8c00e9f541a6fd7,False,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a390e4f3072dd89262c0cd,False,Neither easy nor difficult,Remote Work,Python,Healthcare
+62a391cacf2555431730a623,False,Neither easy nor difficult,Other,Python,Tech
+62a39214f8f756164585c6b6,False,Difficult,Good Work/Life Balance,Python,Finance
+62a39297b4da29969c638679,True,Easy,Better Salary,Python,Other
+62a393330a77c1a77f6662e4,False,Neither easy nor difficult,Better Salary,Python,Tech
+62a3944024a262602738cb07,True,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a3951ed8c00e9f541a75d1,False,Neither easy nor difficult,Better Salary,Java,Other
+62a3958fcec54911e9caf827,True,Difficult,Better Salary,Python,Tech
+62a3970ebae91e4b8b839495,True,Difficult,Good Work/Life Balance,Other,Healthcare
+62a3976ecf2555431730af5e,False,Very Difficult,Remote Work,Python,Other
+62a397fb5d257a28a30e279a,False,Neither easy nor difficult,Better Salary,Python,Other
+62a3980c7dc029e2d66c9a81,False,Neither easy nor difficult,Better Salary,Other,Agriculture
+62a3980e0f8c8599d5afc32c,True,Difficult,Good Work/Life Balance,Other,Other
+62a39a340f8c8599d5afc6ce,True,Difficult,Better Salary,Python,Education
+62a39a95bc6861bf3177751d,False,Neither easy nor difficult,Good Work/Life Balance,Python,Healthcare
+62a39b315d257a28a30e2cae,True,Easy,Remote Work,R,Other
+62a39b6cf408bae018ede929,False,Neither easy nor difficult,Better Salary,Python,Other
+62a39bd324a262602738d725,True,Easy,Good Work/Life Balance,Python,Other
+62a39e03f408bae018eded39,False,Neither easy nor difficult,Better Salary,Python,Other
+62a39e69d8c00e9f541a8358,False,Difficult,Good Work/Life Balance,R,Other
+62a3a0bcf8f756164585daf7,True,Neither easy nor difficult,Good Culture,Other,Healthcare
+62a3a1a62e54c9003e53dc35,True,Difficult,Good Culture,Python,Education
+62a3a231b4da29969c639b2c,True,Easy,Remote Work,Other,Other
+62a3a3800f8c8599d5afd4db,True,Difficult,Better Salary,Python,Other
+62a3a4fdbae91e4b8b83ab6f,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a3a7f50a77c1a77f668221,True,Very Difficult,Remote Work,Python,Tech
+62a3a90f24a262602738e800,True,Neither easy nor difficult,Better Salary,Other,Healthcare
+62a3a9dbd8c00e9f541a93eb,True,Difficult,Better Salary,Python,Tech
+62a3aaa3cec54911e9cb1724,True,Neither easy nor difficult,Better Salary,R,Healthcare
+62a3ab320f8c8599d5afdfa8,True,Easy,Better Salary,R,Tech
+62a3abacd8c00e9f541a96eb,False,Very Difficult,Remote Work,R,Real Estate
+62a3ac4bf8f756164585ea83,True,Easy,Good Work/Life Balance,Python,Tech
+62a3ad35cec54911e9cb1b5c,False,Neither easy nor difficult,Remote Work,Python,Healthcare
+62a3ae69bc6861bf3177900d,True,Difficult,Other,Other,Other
+62a3af26cec54911e9cb1f3a,True,Neither easy nor difficult,Remote Work,Python,Other
+62a3af66f8f756164585eeb8,True,Very Difficult,Better Salary,Python,Tech
+62a3b135b4da29969c63b1ed,True,Easy,Better Salary,R,Finance
+62a3b255d8c00e9f541a9fd5,True,Easy,Better Salary,Python,Other
+62a3b314f408bae018ee0938,True,Easy,Better Salary,R,Other
+62a3b3f6bc6861bf3177973b,True,Very Difficult,Better Salary,Python,Finance
+62a3ba4dbc6861bf31779f24,True,Neither easy nor difficult,Better Salary,Python,Other
+62a3baa624a262602738ff27,False,Easy,Other,Python,Finance
+62a3bc00d8c00e9f541aad66,True,Difficult,Better Salary,R,Finance
+62a3bf1b0a77c1a77f66a347,True,Neither easy nor difficult,Remote Work,Python,Healthcare
+62a3c021f8f756164586043f,True,Neither easy nor difficult,Better Salary,Other,Other
+62a3c1b1bc6861bf3177aa8c,False,Neither easy nor difficult,Remote Work,Other,Education
+62a3c30324a26260273909b9,False,Difficult,Good Work/Life Balance,Python,Other
+62a3c476bc6861bf3177ad9d,True,Difficult,Good Culture,Python,Other
+62a3c5f2cec54911e9cb3d9b,True,Neither easy nor difficult,Remote Work,R,Other
+62a3c7f1bc6861bf3177b06e,False,Neither easy nor difficult,Better Salary,C/C++,Tech
+62a3c8652e54c9003e54103e,True,Neither easy nor difficult,Remote Work,Python,Finance
+62a3ca44bae91e4b8b83dcd4,False,Neither easy nor difficult,Other,Other,Tech
+62a3cafff8d5efcc22f8b5cb,True,Easy,Remote Work,Python,Finance
+62a3cbfef8d5efcc22f8b6f1,True,Very Difficult,Better Salary,Python,Tech
+62a3cde8f8f7561645861366,False,Very Difficult,Other,Python,Finance
+62a3cfed0f8c8599d5b00b12,True,Neither easy nor difficult,Better Salary,Python,Finance
+62a3d21ef3072dd8926314d1,False,Difficult,Remote Work,Python,Finance
+62a3d37c0a77c1a77f66bc0e,False,Neither easy nor difficult,Better Salary,Other,Healthcare
+62a3d8dbf8f7561645861f9d,False,Easy,Other,Python,Education
+62a3d9697dc029e2d66cf087,True,Difficult,Good Work/Life Balance,Python,Healthcare
+62a3dac9f3072dd892631e12,False,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a3dc3ab4da29969c63e3d7,True,Difficult,Good Work/Life Balance,R,Other
+62a3e2abf8f75616458628d1,True,Difficult,Good Culture,Python,Tech
+62a3e32bd8c00e9f541ad5f0,False,Difficult,Better Salary,Other,Education
+62a3ecf7bc6861bf3177d5c2,True,Easy,Remote Work,Python,Healthcare
+62a3eea9bae91e4b8b8401a4,True,Very Difficult,Better Salary,Python,Other
+62a3f39df8d5efcc22f8ddc2,False,Difficult,Good Culture,Python,Healthcare
+62a3f6a25d257a28a30e9d02,True,Very Difficult,Other,Python,Other
+62a3f6d9bae91e4b8b8408ca,False,Neither easy nor difficult,Better Salary,Other,Other
+62a3fc7c7dc029e2d66d10e8,True,Easy,Good Culture,Other,Construction
+62a3fe0d5d257a28a30ea3c8,False,Easy,Better Salary,Python,Tech
+62a3fea50a77c1a77f66e41b,True,Neither easy nor difficult,Better Salary,R,Healthcare
+62a40276bc6861bf3177e6fd,True,Difficult,Good Work/Life Balance,Python,Other
+62a403bbf8d5efcc22f8eb18,True,Very Difficult,Better Salary,Python,Tech
+62a403d30f8c8599d5b03d65,False,Very Easy,Better Salary,Python,Real Estate
+62a4044acf25554317312a81,True,Neither easy nor difficult,Remote Work,R,Other
+62a4061bf408bae018ee5deb,True,Easy,Good Work/Life Balance,Other,Agriculture
+62a40726575fa3a5ae89d990,True,Very Easy,Better Salary,Python,Finance
+62a4098124a2626027394ddc,True,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a40c99575fa3a5ae89de4b,True,Easy,Good Work/Life Balance,Python,Other
+62a40d86d8c00e9f541afb5e,True,Neither easy nor difficult,Good Culture,R,Other
+62a40da3cf255543173132e2,True,Neither easy nor difficult,Remote Work,R,Other
+62a40dfa5d257a28a30eb110,True,Difficult,Remote Work,Python,Other
+62a410b5cec54911e9cb8262,False,Very Difficult,Good Work/Life Balance,Python,Other
+62a41135bc6861bf3177f3d8,False,Very Easy,Better Salary,Python,Other
+62a41795cec54911e9cb8854,True,Very Easy,Better Salary,Python,Finance
+62a41964d8c00e9f541b061d,False,Neither easy nor difficult,Better Salary,R,Education
+62a41968f8d5efcc22f8fd44,True,Difficult,Better Salary,Other,Telecommunication
+62a41e23bc6861bf3177fffb,True,Neither easy nor difficult,Better Salary,Python,Finance
+62a421cebc6861bf317803f5,True,Neither easy nor difficult,Better Salary,Python,Other
+62a42243f8d5efcc22f90c55,False,Very Difficult,Remote Work,Python,Other
+62a424ccd8c00e9f541b114e,True,Difficult,Better Salary,Python,Tech
+62a42527b4da29969c6423f7,False,Easy,Remote Work,Python,Education
+62a425ec2e54c9003e5467bf,True,Difficult,Good Work/Life Balance,Other,Healthcare
+62a427190a77c1a77f67095c,True,Neither easy nor difficult,Remote Work,Python,Tech
+62a429f0f3072dd892636396,False,Easy,Remote Work,Python,Education
+62a42d6ef8d5efcc22f9178a,True,Difficult,Remote Work,Python,Healthcare
+62a436fd24a2626027397c93,True,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62a43e86f408bae018ee913a,False,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a43ed4f8d5efcc22f92d0a,True,Neither easy nor difficult,Remote Work,Python,Healthcare
+62a43f43f408bae018ee9281,True,Neither easy nor difficult,Better Salary,Python,Education
+62a440ab575fa3a5ae8a1418,False,Easy,Better Salary,Python,Healthcare
+62a441e3575fa3a5ae8a1552,True,Neither easy nor difficult,Good Work/Life Balance,Python,Finance
+62a446faf8f7561645868c60,True,Difficult,Better Salary,Python,Tech
+62a448832e54c9003e5491c5,False,Easy,Better Salary,Python,Healthcare
+62a44ae2f8f7561645869335,True,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a44bc7bc6861bf31783829,True,Difficult,Better Salary,Python,Other
+62a44ea3f408bae018eea62a,True,Neither easy nor difficult,Good Culture,Other,Other
+62a4514ff408bae018eea94d,True,Easy,Better Salary,Python,Tech
+62a45a140a77c1a77f67469d,False,Easy,Better Salary,Other,Real Estate
+62a45c8bf3072dd89263a493,False,Easy,Good Work/Life Balance,Python,Other
+62a45f8c0f8c8599d5b09d40,True,Neither easy nor difficult,Remote Work,Python,Finance
+62a4604d0a77c1a77f674e29,False,Easy,Remote Work,Other,Finance
+62a46a66f8d5efcc22f95a7a,True,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a46ad7d8c00e9f541b664a,False,Neither easy nor difficult,Good Work/Life Balance,R,Construction
+62a46dbecf25554317319e48,True,Neither easy nor difficult,Better Salary,Python,Finance
+62a475dcf408bae018eed15c,True,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a477f0b4da29969c64892f,True,Difficult,Other,R,Tech
+62a47947cec54911e9cbf6b2,False,Neither easy nor difficult,Good Work/Life Balance,R,Other
+62a47c587dc029e2d66d9782,False,Neither easy nor difficult,Better Salary,Other,Finance
+62a47e3ef3072dd89263c8c0,False,Easy,Good Work/Life Balance,R,Tech
+62a47e812e54c9003e54d789,True,Neither easy nor difficult,Good Work/Life Balance,R,Other
+62a47ea87dc029e2d66d9b60,False,Neither easy nor difficult,Good Work/Life Balance,R,Other
+62a47f1e0a77c1a77f677174,True,Difficult,Better Salary,R,Tech
+62a48566b4da29969c64995a,False,Neither easy nor difficult,Good Culture,Python,Other
+62a48612d8c00e9f541b86b8,False,Easy,Remote Work,Python,Healthcare
+62a487167dc029e2d66da73e,True,Neither easy nor difficult,Better Salary,Python,Other
+62a488197dc029e2d66da8a1,True,Neither easy nor difficult,Good Culture,Python,Healthcare
+62a48c4c24a262602739e141,True,Difficult,Good Work/Life Balance,Other,Other
+62a48cbdf408bae018eeeccf,False,Easy,Remote Work,C/C++,Healthcare
+62a48d4df8d5efcc22f98308,False,Neither easy nor difficult,Better Salary,Python,Other
+62a48d562e54c9003e54ea2b,False,Difficult,Remote Work,R,Tech
+62a48da6b4da29969c64a3a5,True,Difficult,Good Work/Life Balance,Python,Finance
+62a49012f408bae018eef16d,True,Neither easy nor difficult,Remote Work,R,Other
+62a491b3b4da29969c64a89e,True,Neither easy nor difficult,Better Salary,R,Tech
+62a4926ef408bae018eef4ee,True,Easy,Better Salary,Python,Telecommunication
+62a495d724a262602739ee07,False,Easy,Good Work/Life Balance,Python,Tech
+62a49b3cb4da29969c64b5dc,True,Neither easy nor difficult,Good Culture,Python,Tech
+62a49e087dc029e2d66dc57e,True,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62a49e47b4da29969c64b9f9,True,Difficult,Good Work/Life Balance,Python,Tech
+62a49e5f24a262602739f9af,True,Difficult,Better Salary,JavaScript,Other
+62a49fe7b4da29969c64bbe1,False,Very Difficult,Better Salary,R,Other
+62a4a3d4f8d5efcc22f9a051,False,Neither easy nor difficult,Good Culture,R,Healthcare
+62a4a8cb0a77c1a77f67a405,True,Easy,Good Culture,Other,Other
+62a4abb30f8c8599d5b0fc24,False,Neither easy nor difficult,Good Culture,R,Finance
+62a4afd87dc029e2d66ddb24,False,Neither easy nor difficult,Good Work/Life Balance,Python,Finance
+62a4b085cec54911e9cc3afe,True,Difficult,Better Salary,Python,Finance
+62a4b23f5d257a28a30f6b8c,True,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62a4b29a5d257a28a30f6c63,True,Neither easy nor difficult,Better Salary,R,Healthcare
+62a4b2e5f8f75616458712af,False,Very Easy,Other,Other,Other
+62a4b6c30a77c1a77f67b54c,True,Easy,Good Culture,R,Healthcare
+62a4bf07b4da29969c64e4f8,True,Difficult,Remote Work,Python,Tech
+62a4bf3a0a77c1a77f67bef2,True,Very Easy,Better Salary,Python,Tech
+62a4c49a575fa3a5ae8aadf4,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a4c57af3072dd8926421ac,True,Neither easy nor difficult,Good Culture,Python,Real Estate
+62a4c6060a77c1a77f67c772,False,Easy,Better Salary,Python,Other
+62a4c7d0f8f7561645872912,True,Easy,Good Culture,R,Education
+62a4cdfad8c00e9f541bdc6b,False,Neither easy nor difficult,Better Salary,Python,Other
+62a4ce2bbae91e4b8b84f3db,False,Neither easy nor difficult,Remote Work,Python,Other
+62a4cffeb4da29969c64f6a1,True,Very Difficult,Good Work/Life Balance,Python,Finance
+62a4d08bf3072dd892642d2c,False,Neither easy nor difficult,Better Salary,Python,Finance
+62a4d13bbae91e4b8b84f89b,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a4d74c5d257a28a30f97fc,False,Difficult,Remote Work,Python,Other
+62a4d7f6bae91e4b8b84ffed,False,Neither easy nor difficult,Better Salary,R,Other
+62a4d9d4bae91e4b8b8501f1,True,Difficult,Better Salary,Other,Tech
+62a4dd63f408bae018ef4e51,True,Easy,Better Salary,Python,Construction
+62a4e34d7dc029e2d66e10b9,False,Neither easy nor difficult,Better Salary,Python,Tech
+62a4e4c90f8c8599d5b13d8f,True,Easy,Remote Work,Python,Education
+62a4e5aed8c00e9f541bf48c,True,Neither easy nor difficult,Better Salary,Python,Other
+62a4f6eef3072dd892645775,False,Easy,Remote Work,R,Education
+62a4fe370f8c8599d5b158c4,False,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a5008c5d257a28a30fbde5,True,Neither easy nor difficult,Remote Work,Python,Tech
+62a5038acec54911e9cc9526,False,Neither easy nor difficult,Better Salary,Python,Other
+62a50775f8f756164587677b,True,Difficult,Remote Work,R,Real Estate
+62a50eddf8d5efcc22fa1a4e,True,Difficult,Remote Work,Python,Healthcare
+62a511acbc6861bf3179178a,False,Easy,Better Salary,Other,Healthcare
+62a5177d18134ddc75d0e9d8,True,Neither easy nor difficult,Good Work/Life Balance,R,Other
+62a51aaacec54911e9cca93b,True,Easy,Remote Work,Other,Healthcare
+62a51dc6575fa3a5ae8b09f3,False,Neither easy nor difficult,Better Salary,Python,Finance
+62a51fe0575fa3a5ae8b0c06,False,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a525aff8f75616458784dd,True,Difficult,Better Salary,Python,Agriculture
+62a52629b4da29969c654a94,True,Easy,Good Work/Life Balance,Other,Healthcare
+62a52725d8c00e9f541c3b4a,False,Difficult,Other,Python,Finance
+62a5390cb4da29969c655ccc,True,Neither easy nor difficult,Remote Work,Python,Tech
+62a53bc0bc6861bf31793947,True,Very Easy,Better Salary,R,Other
+62a53c84f3072dd8926495c9,False,Difficult,Remote Work,Python,Tech
+62a54bccf3072dd89264a13b,True,Neither easy nor difficult,Better Salary,Python,Other
+62a54f20d8c00e9f541c5cfa,True,Neither easy nor difficult,Better Salary,Python,Other
+62a552e1cf2555431732922d,True,Neither easy nor difficult,Other,R,Healthcare
+62a557d10f8c8599d5b1a81c,True,Difficult,Remote Work,Python,Finance
+62a55b05f8d5efcc22fa5b65,True,Difficult,Other,R,Other
+62a55fe1f8d5efcc22fa5fe4,False,Very Easy,Better Salary,Python,Finance
+62a56bc67dc029e2d66e86c0,True,Neither easy nor difficult,Better Salary,Other,Tech
+62a57116f408bae018efd56a,False,Easy,Better Salary,Python,Other
+62a57263cec54911e9ccf648,True,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a574b3b4da29969c658eb4,True,Neither easy nor difficult,Better Salary,Python,Other
+62a58b267dc029e2d66ea3f8,False,Easy,Other,Python,Tech
+62a58d20575fa3a5ae8b6969,True,Difficult,Remote Work,Python,Healthcare
+62a58faf2e54c9003e55ef2e,False,Difficult,Better Salary,Python,Education
+62a5998fbc6861bf31798ef0,True,Neither easy nor difficult,Good Culture,Python,Tech
+62a59cd2cec54911e9cd251a,False,Neither easy nor difficult,Good Work/Life Balance,R,Education
+62a59d007dc029e2d66eb8f9,True,Difficult,Better Salary,Other,Other
+62a5a124cec54911e9cd29f5,True,Difficult,Good Culture,Python,Finance
+62a5a44b24a26260273af0fc,True,Difficult,Other,Other,Other
+62a5a931cec54911e9cd3333,False,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a5bea05d257a28a3106f7e,False,Neither easy nor difficult,Remote Work,Python,Finance
+62a5c571575fa3a5ae8baaa1,True,Neither easy nor difficult,Good Culture,Python,Education
+62a5cb12cf25554317330d69,True,Difficult,Remote Work,Python,Education
+62a5cba2575fa3a5ae8bb122,True,Easy,Remote Work,Python,Real Estate
+62a5d350f3072dd892652c70,True,Neither easy nor difficult,Good Culture,Python,Tech
+62a5db29cf2555431733248f,True,Difficult,Good Work/Life Balance,Python,Real Estate
+62a5e69f24a26260273b42bf,False,Neither easy nor difficult,Good Work/Life Balance,Python,Finance
+62a5ea667dc029e2d66f153d,True,Easy,Better Salary,Python,Other
+62a5ebe05d257a28a310ac53,True,Difficult,Remote Work,Python,Finance
+62a5edb2575fa3a5ae8bdba5,False,Neither easy nor difficult,Better Salary,Python,Other
+62a5edba0a77c1a77f68f1b5,True,Difficult,Remote Work,R,Healthcare
+62a5f332bc6861bf3179f631,False,Very Easy,Better Salary,Python,Other
+62a5f872bae91e4b8b861e53,False,Neither easy nor difficult,Good Culture,Python,Other
+62a609b8f8f75616458875b7,True,Easy,Remote Work,Python,Healthcare
+62a609c4bc6861bf317a10a3,True,Easy,Remote Work,Python,Healthcare
+62a61076f8f7561645887ded,False,Easy,Good Work/Life Balance,Python,Other
+62a615fd18134ddc75d1f1fa,False,Difficult,Better Salary,Python,Education
+62a617c30a77c1a77f6925fc,False,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62a618a9d8c00e9f541d3537,True,Very Difficult,Better Salary,R,Tech
+62a61eb02e54c9003e5697f7,True,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a6246df3072dd892659218,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a62a7124a26260273b94fa,False,Difficult,Better Salary,Python,Healthcare
+62a631782e54c9003e56ac36,True,Easy,Remote Work,Other,Finance
+62a633b4d8c00e9f541d54a4,False,Easy,Remote Work,Python,Other
+62a639e05d257a28a3110ef5,True,Neither easy nor difficult,Remote Work,R,Finance
+62a642690f8c8599d5b2ab37,True,Easy,Better Salary,Python,Other
+62a64b4dd8c00e9f541d6d81,False,Difficult,Remote Work,R,Real Estate
+62a64c6ecf2555431733a7a4,True,Difficult,Better Salary,Python,Tech
+62a654165d257a28a3112ac9,True,Neither easy nor difficult,Remote Work,Python,Finance
+62a65618d8c00e9f541d783a,True,Neither easy nor difficult,Better Salary,Python,Other
+62a65db824a26260273bc9ff,True,Easy,Good Culture,Python,Other
+62a66558cf2555431733c0f9,True,Neither easy nor difficult,Better Salary,Python,Other
+62a6772c18134ddc75d25895,True,Neither easy nor difficult,Better Salary,Python,Other
+62a68f1e0a77c1a77f69a381,True,Very Easy,Good Work/Life Balance,Python,Other
+62a6a11a0a77c1a77f69b7cb,True,Easy,Better Salary,Other,Construction
+62a6ac1524a26260273c1cd0,False,Difficult,Better Salary,Python,Telecommunication
+62a6b0790a77c1a77f69cb15,False,Difficult,Better Salary,Python,Tech
+62a6bc6a18134ddc75d2a726,False,Easy,Better Salary,Other,Tech
+62a6c3d9cec54911e9ce7669,True,Easy,Better Salary,Python,Other
+62a6d037cec54911e9ce862a,False,Easy,Better Salary,Python,Real Estate
+62a6d2532e54c9003e575d9c,False,Easy,Good Culture,Other,Other
+62a6dbcad8c00e9f541e1050,True,Neither easy nor difficult,Better Salary,Python,Healthcare
+62a6e2815d257a28a311c8f9,True,Difficult,Better Salary,Python,Other
+62a6ea03d8c00e9f541e3594,True,Neither easy nor difficult,Better Salary,Python,Finance
+62a7029ff8f7561645899bae,True,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a7047c24a26260273c9646,True,Easy,Good Culture,Python,Tech
+62a70b55cec54911e9cedd98,True,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a71930bae91e4b8b878b2b,True,Easy,Remote Work,R,Tech
+62a73a37f8d5efcc22fcb724,True,Easy,Good Culture,Python,Other
+62a73aa824a26260273d0172,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a73c5b0a77c1a77f6aba65,True,Easy,Remote Work,Other,Finance
+62a749ebd8c00e9f541efa36,True,Difficult,Good Work/Life Balance,Python,Telecommunication
+62a74e28b4da29969c681108,False,Easy,Other,Python,Tech
+62a758185d257a28a312bc94,False,Neither easy nor difficult,Remote Work,Python,Finance
+62a75a5418134ddc75d3d2f1,True,Difficult,Better Salary,R,Finance
+62a75ed0f8f75616458a5d1a,False,Neither easy nor difficult,Better Salary,Python,Tech
+62a75f1b575fa3a5ae8e0010,True,Easy,Better Salary,Python,Tech
+62a764ffd8c00e9f541f3cc3,False,Neither easy nor difficult,Better Salary,Python,Tech
+62a76c962e54c9003e588661,False,Neither easy nor difficult,Better Salary,Other,Other
+62a772da575fa3a5ae8e2a4a,False,Neither easy nor difficult,Good Work/Life Balance,Python,Telecommunication
+62a7738a2e54c9003e589598,True,Easy,Good Work/Life Balance,Python,Healthcare
+62a77967f8d5efcc22fd4c81,False,Neither easy nor difficult,Better Salary,Python,Education
+62a77a37f8d5efcc22fd4e47,True,Very Difficult,Better Salary,Python,Construction
+62a77cb7b4da29969c68743a,True,Neither easy nor difficult,Better Salary,Python,Agriculture
+62a78743f8f75616458ab6bb,False,Neither easy nor difficult,Better Salary,Python,Telecommunication
+62a789015d257a28a3132977,True,Neither easy nor difficult,Better Salary,Python,Other
+62a78f3bf408bae018f2ef51,True,Neither easy nor difficult,Better Salary,Python,Finance
+62a7988bbae91e4b8b88b8ee,True,Difficult,Better Salary,Python,Other
+62a79c9c2e54c9003e58f0d5,True,Difficult,Good Work/Life Balance,Python,Healthcare
+62a7b0ae0f8c8599d5b51cd0,True,Neither easy nor difficult,Remote Work,Python,Other
+62a7b283f8d5efcc22fdc189,True,Neither easy nor difficult,Good Work/Life Balance,R,Healthcare
+62a7b296f8d5efcc22fdc1ef,True,Neither easy nor difficult,Good Culture,Python,Education
+62a7bd0e5d257a28a313855c,True,Difficult,Remote Work,Python,Other
+62a7be5e5d257a28a313876a,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a7ce44575fa3a5ae8ece5f,False,Very Difficult,Remote Work,Python,Education
+62a7e1380f8c8599d5b55fcf,True,Difficult,Better Salary,Other,Healthcare
+62a7e2d024a26260273e4448,True,Very Difficult,Better Salary,Python,Finance
+62a7ed9c0f8c8599d5b57132,False,Neither easy nor difficult,Good Culture,Python,Real Estate
+62a7f09a0f8c8599d5b57526,True,Difficult,Better Salary,Python,Other
+62a7fb02f8d5efcc22fe2486,False,Neither easy nor difficult,Good Culture,Python,Real Estate
+62a816907dc029e2d6725a33,False,Neither easy nor difficult,Better Salary,Python,Finance
+62a84764bc6861bf317d7b86,False,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62a84f9af408bae018f41e34,False,Neither easy nor difficult,Remote Work,Python,Tech
+62a85803f8d5efcc22fea92f,True,Neither easy nor difficult,Good Culture,Other,Other
+62a8592f7dc029e2d672c0a8,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a8643bcec54911e9d14297,True,Difficult,Better Salary,R,Finance
+62a8665c5d257a28a31474f7,True,Difficult,Better Salary,Other,Healthcare
+62a868c5cf2555431737094b,False,Easy,Better Salary,Python,Finance
+62a88e9ff8d5efcc22ff1eb6,False,Difficult,Good Work/Life Balance,Python,Other
+62a89e365d257a28a314fd36,True,Very Difficult,Better Salary,Python,Other
+62a8b6ffbae91e4b8b8aa5c2,False,Neither easy nor difficult,Better Salary,R,Tech
+62a8bf9e575fa3a5ae907617,False,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62a8cd29bc6861bf317ea9a2,True,Neither easy nor difficult,Other,Other,Other
+62a8f477f408bae018f5869d,False,Difficult,Better Salary,Python,Healthcare
+62a8fcf5cf25554317384604,False,Neither easy nor difficult,Better Salary,C/C++,Other
+62a8fe9abc6861bf317f0c01,True,Difficult,Better Salary,Python,Tech
+62a9024d18134ddc75d6e76d,True,Very Easy,Better Salary,R,Healthcare
+62a95253bae91e4b8b8b91d9,True,Difficult,Good Work/Life Balance,Python,Telecommunication
+62a960567dc029e2d6749dd8,False,Neither easy nor difficult,Better Salary,Python,Construction
+62a9612bf8d5efcc22007c09,True,Neither easy nor difficult,Better Salary,Other,Education
+62a962380f8c8599d5b7e3fb,True,Very Difficult,Remote Work,Other,Other
+62a993537dc029e2d674e9b5,False,Neither easy nor difficult,Good Work/Life Balance,Python,Education
+62a9bb81bc6861bf3180079c,False,Easy,Good Culture,Python,Finance
+62a9c880f408bae018f6aa1b,True,Difficult,Better Salary,Python,Other
+62a9e206f3072dd8926bce70,False,Easy,Better Salary,Python,Tech
+62a9f0172e54c9003e5cdc25,True,Neither easy nor difficult,Better Salary,Python,Tech
+62a9f8a4cf2555431739d694,False,Difficult,Remote Work,Python,Education
+62aa121dcec54911e9d446cc,True,Easy,Other,Python,Tech
+62aa1734f3072dd8926c4168,True,Neither easy nor difficult,Good Work/Life Balance,Other,Finance
+62aa21e218134ddc75d8be11,False,Difficult,Better Salary,R,Construction
+62aa29852e54c9003e5d50b5,True,Difficult,Better Salary,Python,Tech
+62aa2f44bc6861bf3180fd06,True,Difficult,Better Salary,Other,Telecommunication
+62aa3454bae91e4b8b8d3249,False,Neither easy nor difficult,Good Work/Life Balance,R,Tech
+62aa34e8f3072dd8926c7d56,False,Easy,Better Salary,Python,Other
+62aa356ff8d5efcc22020832,True,Easy,Better Salary,R,Tech
+62aa3e6824a26260274264da,True,Difficult,Better Salary,Python,Other
+62aa4790f8d5efcc2202266e,True,Difficult,Remote Work,Python,Other
+62aa5761bc6861bf318141fc,False,Difficult,Good Culture,JavaScript,Tech
+62aa5c11f408bae018f7dec0,True,Neither easy nor difficult,Better Salary,Python,Tech
+62aa956ef8d5efcc22028e3d,True,Neither easy nor difficult,Better Salary,Python,Tech
+62aa95970a77c1a77f709268,True,Easy,Other,Python,Finance
+62aa98bfcf255543173adbdc,False,Neither easy nor difficult,Remote Work,Python,Other
+62aaa387f8d5efcc22029fcb,True,Difficult,Better Salary,Other,Healthcare
+62aaa86bbae91e4b8b8dc832,False,Difficult,Remote Work,Python,Tech
+62aacd922e54c9003e5e33c2,True,Neither easy nor difficult,Good Work/Life Balance,Other,Finance
+62aaeecd0f8c8599d5ba6923,False,Easy,Good Work/Life Balance,Python,Tech
+62aaf8397dc029e2d6773cde,True,Very Easy,Remote Work,Python,Tech
+62aaff342e54c9003e5e79b8,True,Neither easy nor difficult,Better Salary,Python,Tech
+62ab0bdc575fa3a5ae9413e5,True,Difficult,Remote Work,Python,Other
+62ab1cb0cec54911e9d5d187,True,Neither easy nor difficult,Remote Work,R,Tech
+62ab3e62bae91e4b8b8ebe14,False,Neither easy nor difficult,Good Work/Life Balance,Python,Other
+62ab6ab318134ddc75dabb09,True,Very Easy,Better Salary,Python,Real Estate
+62ab83a7d8c00e9f54263d2e,True,Neither easy nor difficult,Better Salary,Python,Tech
+62ab8bf65d257a28a319e9cb,False,Neither easy nor difficult,Remote Work,R,Tech
+62abec6cf3072dd8926f2ad0,False,Neither easy nor difficult,Better Salary,Python,Other
+62abee280f8c8599d5bc246d,False,Very Easy,Good Culture,Other,Finance
+62acc1f0cf255543173e59f7,False,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62ace61d575fa3a5ae972d57,False,Neither easy nor difficult,Better Salary,Python,Tech
+62acf0890f8c8599d5bdce87,False,Easy,Good Culture,Other,Tech
+62ad591424a2626027471080,False,Neither easy nor difficult,Better Salary,Python,Agriculture
+62ade22318134ddc75de385f,False,Neither easy nor difficult,Remote Work,Python,Healthcare
+62adf26f18134ddc75de4bb4,False,Difficult,Better Salary,Other,Construction
+62ae680024a2626027483ebc,True,Neither easy nor difficult,Better Salary,Python,Finance
+62aee103f8f756164595adb8,True,Difficult,Good Work/Life Balance,Python,Education
+62af07be7dc029e2d67cc3c8,True,Neither easy nor difficult,Better Salary,Python,Other
+62af10295d257a28a31e6ff8,True,Neither easy nor difficult,Better Salary,Python,Education
+62af387018134ddc75df894e,False,Neither easy nor difficult,Good Work/Life Balance,Python,Tech
+62af49025d257a28a31eb2f1,True,Easy,Remote Work,Python,Tech
+62af53ce0f8c8599d5c04934,True,Difficult,Better Salary,R,Other
+62af6371f8d5efcc2208e923,False,Neither easy nor difficult,Better Salary,Other,Agriculture
+62af9ed7f3072dd892739279,True,Easy,Better Salary,Python,Tech
+62b152960f8c8599d5c31550,True,Neither easy nor difficult,Better Salary,Python,Other
+62b16a5c5d257a28a321a74c,False,Easy,Good Work/Life Balance,Other,Finance
+62b21d40bae91e4b8b985154,False,Neither easy nor difficult,Better Salary,Python,Other
+62b27004bc6861bf318c9038,True,Difficult,Better Salary,Other,Education
+62b2ea87f8d5efcc220e3e21,True,Easy,Good Work/Life Balance,Python,Finance
+62b35284cec54911e9e1818c,False,Neither easy nor difficult,Good Culture,R,Tech
+62b4404df31287f32e14d1c1,True,Easy,Better Salary,Python,Telecommunication
+62b525563f28f20328aeee5c,True,Easy,Better Salary,R,Other
+62b5a3e29bc428d5345f6e89,False,Difficult,Better Salary,R,Other
+62b71083f31287f32e189026,True,Difficult,Better Salary,Python,Tech
+62b795033b026e423f287ecd,False,Easy,Other,Python,Tech
+62b89039377223ff07b80fb5,False,Easy,Remote Work,Python,Other
